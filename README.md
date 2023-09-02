@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arpitsinha33150
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python/html
+- 🌱 I’m currently learning python
 
 <!---
 Arpitsinha33150/Arpitsinha33150 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
